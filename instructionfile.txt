@@ -4,4 +4,4 @@ ok
 
 kk
 
-from local branch...
+from local branch
